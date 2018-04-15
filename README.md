@@ -1,3 +1,3 @@
-#React JS Movie App
+# React JS Movie App
 
 Learning React JS!
