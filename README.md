@@ -2,4 +2,4 @@
 
 Learning React JS!
 
-Gh-Page: https://junhyeock.github.io/reactjsmovieapp
+gh-page: https://junhyeock.github.io/reactjsmovieapp
